@@ -126,7 +126,7 @@ git push origin feature-branch
 
 📌 Created with ❤️ by Swapnil Shaw
 
-📧 Email: [your-email@example.com]
-🌐 Portfolio: [your-portfolio.com]
+📧 Email: swapnilshaw2005@gmail.com
+
 
 🔥 Enjoy coding & stay productive! 🚀✨
